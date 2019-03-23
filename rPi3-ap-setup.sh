@@ -1,4 +1,4 @@
-#!/bin/bash
+ï»¿#!/bin/bash
 #
 # This version uses September 2017 august stretch image, please use this image
 #
@@ -16,7 +16,7 @@ if [[ $# -lt 1 ]];
 fi
 
 APPASS="$1"
-# SSID–¼‚Í‚±‚±‚Åİ’è‚·‚é
+# SSIDåã¯ã“ã“ã§è¨­å®šã™ã‚‹
 APSSID="PT-4"
 
 if [[ $# -eq 2 ]]; then
